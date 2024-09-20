@@ -1,7 +1,3 @@
-Berikut adalah template README yang informatif dan menarik untuk proyek GitHub Anda, menjelaskan cara menjalankan kode aplikasi cipher yang telah Anda buat:
-
----
-
 # Aplikasi Cipher GUI
 
 Aplikasi ini adalah sebuah **tool enkripsi dan dekripsi** yang mendukung tiga jenis cipher populer: **Vigenere Cipher**, **Playfair Cipher**, dan **Hill Cipher**. Aplikasi ini dibangun menggunakan **Python** dengan antarmuka GUI berbasis **Tkinter**, memungkinkan pengguna untuk mengenkripsi dan mendekripsi pesan melalui input teks langsung atau file `.txt`.
